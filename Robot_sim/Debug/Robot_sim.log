@@ -1,0 +1,9 @@
+﻿  robot_sim.cpp
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(453,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(457,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(466,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(470,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(494,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(502,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jobin Binoy George\source\repos\Robot_sim\Robot_sim\robot_sim.cpp(518,27): warning C4018: '<': signed/unsigned mismatch
+  Robot_sim.vcxproj -> C:\Users\Jobin Binoy George\source\repos\Robot_sim\Debug\Robot_sim.exe
